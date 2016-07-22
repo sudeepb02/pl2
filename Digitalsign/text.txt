@@ -1,1 +1,3 @@
 this is a text file
+New line 
+This is line 3
